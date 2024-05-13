@@ -2,13 +2,14 @@
 
 **AIM:**<br> 
 
-&emsp;&emsp;To simulate and implement finite state machine using Xilinx ISE.
+&emsp;&emsp;To simulate and implement finite state machine using VIVADO 2023.2.
 
-**APPARATUS REQUIRED:**<br>
+**SOFTWARE REQUIRED:**<br>
 
 &emsp;&emsp;VIVADO 2023.2
 
 **PROCEDURE:**<br>
+
 STEP:1  Launch the Vivado 2023.2 software.<br>
 STEP:2  Click on “create project ” from the starting page of vivado.<br>
 STEP:3  Choose the design entry method:RTL(verilog/VHDL).<br>
@@ -60,6 +61,7 @@ endmodule
 ![image](https://github.com/TharunPR/VLSI-LAB-EXP-5/assets/117915125/63211817-1d01-4f46-809f-23b24a315216)
 
 **RESULT:**<br>
+
 &emsp;&emsp;Thus the simulation and implementation of Finite State MOORE Machine is is done and the outputs are verified successfully.
 
 
